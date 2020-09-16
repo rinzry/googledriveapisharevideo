@@ -1,0 +1,16 @@
+{
+    "name": "Github-Google-Drive-API",
+    "version": "1.0.0",
+    "description": "Automatically share videos on google drive",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rinzry",
+    "license": "ISC",
+    "dependencies": {
+        "googleapis": "^39.2.0",
+        "log4js": "^6.3.0"
+    }
+}
