@@ -13,4 +13,4 @@ If not using a shared drive, remove the lines with `driveId` and `corpora` (line
 Follow Step 1 at https://developers.google.com/drive/api/v3/quickstart/nodejs#step_1_turn_on_the to obtain the credentials.json file and copy that file to the folder with index.js
 
 ### Usage
-You can now run the file with `node .`. Upon the first run, it will ask to authorise the application by heading to a link. Visit the link, log in with your google account and then copy and paste the code it gives you into the console and press enter. Now the script will run and enable share with anyone permissions to all video files **at least an hour old** and output the links to those files in logs.log.
+You can now run the file with `node .` Upon the first run, it will ask to authorise the application by heading to a link. Visit the link, log in with your google account and then copy and paste the code it gives you into the console and press enter. Now the script will run and enable share with anyone permissions to all video files **at least an hour old** and output the links to those files in logs.log.
